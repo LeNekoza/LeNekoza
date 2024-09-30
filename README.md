@@ -18,7 +18,7 @@
   <li>» Full Stack Web Development🦅</li>
 </ul>
 <hr/>
-<h5 align="center"><img width="20px" height="20px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"> LinkedIn :<a href="https://www.linkedin.com/in/kartavya-thapa-54542a23a/"> Kartavya Thapa</a> </h5>
+<h5 align="center"><img width="20px" height="20px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png"><a href="https://www.linkedin.com/in/kartavya-thapa-54542a23a/">LinkedIn</a> </h5>
 <div align="center">
 <img src="https://i.giphy.com/aQwvKKi4Lv3t63nZl9.webp">
 </div>
