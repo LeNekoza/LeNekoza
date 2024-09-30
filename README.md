@@ -1,7 +1,9 @@
-<h3 align="center">🔥 Welcome to my profile 🔥</h3>
-<div align="center"><img width="150px" height="150px" src="https://cdn3.iconfinder.com/data/icons/scenarium-vol-10/128/035-512.png"></div>
-<h1 align="center">MY ARSENAL</h1> 
-<ul align="center" type="none">
+<h2 align="center">🔥 Welcome to my profile 🔥</h2>
+<aside>
+  <img width="150px" height="150px" src="https://cdn3.iconfinder.com/data/icons/scenarium-vol-10/128/035-512.png"/>
+<h1 align="start">MY ARSENAL</h1>
+  </aside>
+<ul align="start" type="none">
   <li>» JavaScript🦅</li>
   <li>» NodeJS🦅</li>
   <li>» TypeScript🕊️</li>
